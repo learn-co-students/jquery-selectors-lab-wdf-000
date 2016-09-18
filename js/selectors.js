@@ -8,7 +8,8 @@ function liInOlSelector() {
 }
 
 function linkSelector() {
-  return $("div#box4 [href]")
+  // return $("div#box4 [href]")
+  return $("#box4.box5 a")
 }
 
 function imageSelector() {
