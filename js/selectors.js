@@ -16,6 +16,6 @@ function imageSelector() {
   return $('img[alt="cat sleeping"]')
 }
 
-function checboxInputSelector() {
+function checkboxInputSelector() {
   return $('input[type="checbox"]')
 }
