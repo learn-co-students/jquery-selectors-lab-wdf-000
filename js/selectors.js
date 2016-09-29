@@ -17,5 +17,5 @@ function imageSelector() {
 }
 
 function checboxInputSelector() {
-  return $('input[type="checbox"])
+  return $('input[type="checbox"]')
 }
